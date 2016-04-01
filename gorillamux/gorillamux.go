@@ -2,7 +2,7 @@ package gorillamux
 
 import (
 	"fmt"
-	"github.com/gorilla/mux"
+	"github.com/ADone/mux"
 	"github.com/manyminds/api2go/routing"
 	"net/http"
 	"strings"

@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	"github.com/gorilla/mux"
+	"github.com/ADone/mux"
 	"github.com/manyminds/api2go"
 	. "github.com/manyminds/api2go-adapter/gorillamux"
 	"github.com/manyminds/api2go/examples/model"
